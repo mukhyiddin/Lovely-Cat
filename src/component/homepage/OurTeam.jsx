@@ -11,16 +11,16 @@ function OurTeam() {
                 <div class="text-center mt-11">
                     <div class="grid lg:grid-cols-4 sm:grid-cols-2">
                         <div>
-                            <CardTeam nama={"Mukhyiddin"} role={"CEO"} url={"https://weddingdreaming.netlify.app/assets/img/team/2.jpg"} />
+                            <CardTeam nama={"Mukhyiddin"} role={"CEO"} url={"https://mukhyiddin.github.io/Wedding-Dreaming-Mataram/assets/img/team/2.jpg"} />
                         </div>
                         <div>
-                            <CardTeam nama={"Titin Adrina Febrianti"} role={"CO-CEO"} url={"https://weddingdreaming.netlify.app/assets/img/team/1.jpg"} />
+                            <CardTeam nama={"Titin Adrina Febrianti"} role={"CO-CEO"} url={"https://mukhyiddin.github.io/Wedding-Dreaming-Mataram/assets/img/team/1.jpg"} />
                         </div>
                         <div>
-                            <CardTeam nama={"Ahmad Rizki Gunawan"} role={"Web Designer"} url={"https://weddingdreaming.netlify.app/assets/img/team/3.jpg"} />
+                            <CardTeam nama={"Ahmad Rizki Gunawan"} role={"Web Designer"} url={"https://mukhyiddin.github.io/Wedding-Dreaming-Mataram/assets/img/team/3.jpg"} />
                         </div>
                         <div>
-                            <CardTeam nama={"Hana Fitriana"} role={"Web Programmer"} url={"https://weddingdreaming.netlify.app/assets/img/team/4.jpg"} />
+                            <CardTeam nama={"Hana Fitriana"} role={"Web Programmer"} url={"https://mukhyiddin.github.io/Wedding-Dreaming-Mataram/assets/img/team/4.jpg"} />
                         </div>
                     </div>
                 </div>
